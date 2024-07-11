@@ -23,7 +23,7 @@ This is a simple To-Do application built using React, Material-UI, and Redux for
 1. Clone the repository:
 
    ```sh
-   git clone [https://github.com/your-username/your-repository-name.git](https://github.com/Prateek-Fst/Todo_List.git)
+   git clone https://github.com/Prateek-Fst/Todo_List.git
    cd your-repository-name
    npm install
    npm start
