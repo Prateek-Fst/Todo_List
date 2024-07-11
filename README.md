@@ -24,7 +24,7 @@ This is a simple To-Do application built using React, Material-UI, and Redux for
 
    ```sh
    git clone https://github.com/Prateek-Fst/Todo_List.git
-   cd your-repository-name
+   cd todo-app
    npm install
    npm start
 Open your browser and go to http://localhost:3000 to view the application.
